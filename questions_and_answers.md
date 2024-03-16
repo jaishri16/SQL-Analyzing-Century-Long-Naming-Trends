@@ -8,6 +8,17 @@ group by first_name
 having count(year) =101
 order by sum(num) desc
 ```
+Results: 
+| first_name | sum     |
+|------------|---------|
+| James      | 4748138 |
+| John       | 4510721 |
+| William    | 3614424 |
+| David      | 3571498 |
+| Joseph     | 2361382 |
+| Thomas     | 2166802 |
+| Charles    | 2112352 |
+| Elizabeth  | 1436286 |
 ## Timeless or trendy?
 2. Classify all names in the dataset as 'Classic,' 'Semi-classic,' 'Semi-trendy,' or 'Trendy' based on whether the name appears in the dataset more than 80, 50, 20, or 0 times, respectively.   
 ```
