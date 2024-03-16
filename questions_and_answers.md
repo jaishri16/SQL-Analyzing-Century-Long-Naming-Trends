@@ -219,5 +219,5 @@ Results:
 | David      | 1              |
 
 order by COUNT(first_name) desc  ;
-```
+
 
