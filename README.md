@@ -10,11 +10,10 @@ his project utilizes SQL to extract valuable insights from baby name data. We ex
 
 1. Unearthing Enduring Names: Identifying names consistently ranking among the top 5,000 for both genders across 1920-2020.
 2. Classifying Name Popularity: Categorizing all names based on their frequency of appearance:
-   * Classic (appearing more than 80 times)
-   * Semi-classic (appearing 50 to 80 times)
-  * Semi-trendy (appearing 20 to 50 times)
-  * Trendy (appearing less than 20 times)
-    
+* Classic (appearing more than 80 times)
+* Semi-classic (appearing 50 to 80 times)
+* Semi-trendy (appearing 20 to 50 times)
+* Trendy (appearing less than 20 times)
 3. Top Female Names: Extracting the ten most popular female names in the US.
 4. Personalized Name Search: Generating name recommendations based on user criteria (e.g., girls' names ending with "a" born after 2015).
 5. Olivia's Rising Popularity: Determining the cumulative number of babies named Olivia throughout the data.
