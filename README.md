@@ -6,7 +6,7 @@ An SQL Analysis of American baby name trends over the span of a century, from 19
 
 ![alt text](https://github.com/jaishri16/SQL-Analyzing-Century-Long-Naming-Trends/blob/main/images/name.jpg)
 
-his project utilizes SQL to extract valuable insights from baby name data. We explore a range of functionalities to answer various questions:
+This project utilizes SQL to extract valuable insights from baby name data. We explore a range of functionalities to answer various questions:
 
 1. Unearthing Enduring Names: Identifying names consistently ranking among the top 5,000 for both genders across 1920-2020.
 2. Classifying Name Popularity: Categorizing all names based on their frequency of appearance:
